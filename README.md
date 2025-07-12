@@ -34,7 +34,7 @@ Enter your question (or 'exit' to quit): What is the main topic of this document
 ```
 ### Output:
 ```
-Response: The document discusses the permissions granted by Google for reproducing tables and figures.
+Response: This document is discussing the development and performance of a computer vision model for object detection and semantic segmentation, specifically focusing on the Inception architecture and its enhancements.
 ```
 
 ## Requirements
